@@ -4,5 +4,5 @@ faster-whisper==1.1.0
 ctranslate2==4.5.0
 transformers==4.49.0
 pandas==2.2.3
-setuptools>=65
+setuptools==75.8.2
 nltk==3.9.1
